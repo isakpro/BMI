@@ -1,0 +1,7 @@
+C:\Users\isakr\source\repos\BM\BM\bin\Debug\BM.exe.config
+C:\Users\isakr\source\repos\BM\BM\bin\Debug\BM.exe
+C:\Users\isakr\source\repos\BM\BM\bin\Debug\BM.pdb
+C:\Users\isakr\source\repos\BM\BM\obj\Debug\BM.csproj.AssemblyReference.cache
+C:\Users\isakr\source\repos\BM\BM\obj\Debug\BM.csproj.CoreCompileInputs.cache
+C:\Users\isakr\source\repos\BM\BM\obj\Debug\BM.exe
+C:\Users\isakr\source\repos\BM\BM\obj\Debug\BM.pdb

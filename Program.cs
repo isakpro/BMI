@@ -34,9 +34,9 @@ namespace BMI
 
                 return weight / (height * height);
             }
-            else if ( unit == "imerpial")
+            else if ( unit == "imperial")
             {
-                return 703 * weight / (height * height));
+                return 703 * (weight / (height * height));
 
             }
             else
