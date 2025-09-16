@@ -25,5 +25,25 @@ namespace BMI
 
             Console.ReadLine();
         }
+       
+       static double CalculateBMI(double weight, double height, string unit = "metric")
+
+        {
+            if (unit == "metric")
+            {
+
+                return weight / (height * height);
+            }
+            else if ( unit == "imerpial")
+            {
+                return 703 * weight / (height * height));
+
+            }
+            else
+            {
+             Console.WriteLine("Unknown unit, returning 0 ");
+                return 0;
+            }
+        }
     }
 }
